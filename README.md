@@ -1,5 +1,5 @@
 # Simple Whatsapp Blaster
-Implementation of [WPP_Whatsapp](https://github.com/3mora2/WPP_Whatsapp) over [PySG](https://github.com/PySimpleGUI/PySimpleGUI)
+Implementation of [WPP_Whatsapp](https://github.com/3mora2/WPP_Whatsapp) over [PySG](https://github.com/PySimpleGUI/PySimpleGUI)<br>
 ![Screenshot of the App](ss.png)
 ## Disclaimer
 This tool is intended to be used for small testing only (not spamming or harming any user), violating Whatsapp's Term of Service and/or End User License Agreement would lead to **termination of an account**. Use it at your own risk, always abide the platform's ToS, EULA, and Rules. You have been warned.
